@@ -1,0 +1,1 @@
+// Upload zone component placeholder

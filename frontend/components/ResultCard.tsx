@@ -1,0 +1,1 @@
+// Result display component placeholder
